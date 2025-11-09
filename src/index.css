@@ -160,3 +160,15 @@
     display: none;
   }
 }
+
+/* HTML: <div class="loader"></div> */
+.loader {
+  width: 50px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  border: 8px solid;
+  border-color: #AB8BFF #0000;
+  animation: l1 1s infinite;
+  margin-inline: auto;
+}
+@keyframes l1 {to{transform: rotate(.5turn)}}
