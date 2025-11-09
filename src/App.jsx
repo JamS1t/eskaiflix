@@ -26,6 +26,8 @@ const App = () => {
     try {
       const endpoint = `${API_BASE_URL}/discover/movie?sort_by=popularity.desc`;
 
+      console.log(endpoint, API_KEY)
+
       const response = await fetch(endpoint, API_OPTIONS);
 
       if(!response.ok){
