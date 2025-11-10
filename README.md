@@ -45,7 +45,7 @@ This project serves as a sandbox for exploring:
    - Visit http://localhost:5173 (or the port Vite reports).
 
 ## ⚙️ Environment Variables
-  **To connect to TMDB and Appwrite, create a .env file in the root directory and add your credentials:**  
+  **To connect to TMDB and Appwrite, create a `.env` file in the root directory and add your credentials:**  
    ```bash
    VITE_TMDB_API_KEY=your_tmdb_api_key
    VITE_APPWRITE_PROJECT_ID=your_appwrite_project_id
