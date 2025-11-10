@@ -66,7 +66,7 @@ If you’d like to contribute:
    ```bash
    git checkout -b feature/YourFeature
 3. **Commit and push your changes**  
-4. **Open a Pull Request describing your addition or improvement*  
+4. **Open a Pull Request describing your addition or improvement**  
    ```bash
    npm run dev
 5. **Open your browser:**  
