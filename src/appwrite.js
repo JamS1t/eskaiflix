@@ -54,8 +54,6 @@ export const getTrendingMovies = async () => {
     const sortedMovies = Object.values(filteredTop).sort((a,b) => b.count - a.count);
     const top5 = sortedMovies.slice(0, 5);
 
-    console.log(top5)
-
     return top5;
   } catch (error) {
     console.error(error);
