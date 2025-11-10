@@ -67,10 +67,6 @@ If you’d like to contribute:
    git checkout -b feature/YourFeature
 3. **Commit and push your changes**  
 4. **Open a Pull Request describing your addition or improvement**  
-   ```bash
-   npm run dev
-5. **Open your browser:**  
-   - Visit http://localhost:5173 (or the port Vite reports).
 
 ## 📄 License
 This project is open source — licensed under the MIT License.
