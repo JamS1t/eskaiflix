@@ -51,6 +51,7 @@ This project serves as a sandbox for exploring:
    VITE_APPWRITE_PROJECT_ID=your_appwrite_project_id
    VITE_APPWRITE_DATABASE_ID=your_appwrite_database_id
    VITE_APPWRITE_COLLECTION_ID=your_appwrite_collection_id
+  ```
 
 ## 🎓 Credits
 This project is inspired by and follows a YouTube tutorial:
